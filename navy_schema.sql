@@ -31,7 +31,7 @@ CREATE TABLE sailor_duty_ships (
   ships_id FOREIGN KEY
 );
 
-INSERT INTO fleets (name) VALUES ('jim' 'john');
+INSERT INTO fleets (name) VALUES ('jim');
 
 
 DROP TABLE IF EXISTS fleets VALUES ('jim' 'john') CASCADE;
